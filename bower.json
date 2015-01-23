@@ -1,0 +1,8 @@
+{
+  "name": "d3-block-chart",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "d3": "~3.5.3"
+  }
+}
